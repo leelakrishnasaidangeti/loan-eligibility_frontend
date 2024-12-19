@@ -1,0 +1,24 @@
+/* Light Blue Background */
+.App {
+  text-align: center;
+  background: #a0d4f3; /* Light Blue */
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Dark Blue Text */
+.App-header {
+  font-size: calc(10px + 2vmin);
+  color: #003366; /* Dark Blue */
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-link {
+  color: #61dafb;
+}
